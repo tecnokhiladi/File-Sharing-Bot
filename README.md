@@ -57,7 +57,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/tecnokhiladi/File-Sharing-Bot
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -120,15 +120,6 @@ python3 main.py
 * `{uptime}` - Bot Uptime
 
 
-## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
-   
-Report Bugs, Give Feature Requests There..   
-
-### Credits
-
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
